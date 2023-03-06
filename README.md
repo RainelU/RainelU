@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RainelU
 - 👀 I’m interested in Front-End + Back-End
-- 🌱 I’m currently learning VueJS, AngularJS
+- 🌱 I’m currently learning Python / Django / React Native
 - 💞️ I’m looking to collaborate on Laravel Aplications Web.
 - 📫 How to reach me Whatever you know
 
