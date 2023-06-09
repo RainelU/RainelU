@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RainelU
-- 👀 I’m interested in Front-End + Back-End
-- 🌱 I’m currently learning Python / Django / React Native
-- 💞️ I’m looking to collaborate on Laravel Aplications Web.
-- 📫 How to reach me Whatever you know
+- 👀 I’m +5 years of experience in web development.
+- 👀 Working in PHP / Python / JavaScript / SQL / Cloud Computing / Docker
+- 👀 Framework experience: Django / Laravel / Yii2 / Codeigniter / React Native / Vue.js / React.js
+- 📫 How to reach me: urainel@gmail.com
 
 <!---
 RainelU/RainelU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
